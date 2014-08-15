@@ -22,4 +22,10 @@ first.
 * [Virgo-Agent-Toolkit](http://virgo-agent-toolkit.github.io/) - Agent Toolkit
 * [luvitrocks](https://github.com/luvitrocks/) - Shiny Luvit modules
 
+## Libraries
 
+* [NPM Tagged Libraries](https://www.npmjs.org/browse/keyword/luvit) - luvit
+  modules on NPM
+* [Streams](https://github.com/virgo-agent-toolkit/luvit-stream) - Streams
+* [TAPE](https://github.com/virgo-agent-toolkit/luvit-tape) - TAP test
+  library
