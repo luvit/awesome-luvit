@@ -24,8 +24,8 @@ first.
 
 ## Libraries
 
-* [NPM Tagged Libraries](https://www.npmjs.org/browse/keyword/luvit) - luvit
-  modules on NPM
+* [NPM Tagged Libraries](https://www.npmjs.org/browse/keyword/luvit) - luvit modules on NPM
 * [Streams](https://github.com/virgo-agent-toolkit/luvit-stream) - Streams
-* [TAPE](https://github.com/virgo-agent-toolkit/luvit-tape) - TAP test
-  library
+* [TAPE](https://github.com/virgo-agent-toolkit/luvit-tape) - TAP test library
+* [Request](https://github.com/virgo-agent-toolkit/luvit-request) - Mikeal-like request library w/ proxy support
+* [Rackspace Monitoring Client](https://github.com/virgo-agent-toolkit/luvit-rackspace-monitoring-client) - Rackspace Monitoring Client
