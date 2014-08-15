@@ -29,3 +29,8 @@ first.
 * [TAPE](https://github.com/virgo-agent-toolkit/luvit-tape) - TAP test library
 * [Request](https://github.com/virgo-agent-toolkit/luvit-request) - Mikeal-like request library w/ proxy support
 * [Rackspace Monitoring Client](https://github.com/virgo-agent-toolkit/luvit-rackspace-monitoring-client) - Rackspace Monitoring Client
+* [Utopia](https://github.com/luvitrocks/luvit-utopia) - Middleware layer
+* [OAuth](https://github.com/luvitrocks/luvit-oauth) - OAuth 1 and 2
+* [QueryString](https://github.com/luvitrocks/luvit-querystring) - QueryString helpers
+* [Base64](https://github.com/luvitrocks/luvit-base64) - Base64
+* [Markdown](https://github.com/mneudert/luvit-markdown) - Markdown parser
