@@ -22,6 +22,10 @@ first.
 * [Virgo-Agent-Toolkit](http://virgo-agent-toolkit.github.io/) - Agent Toolkit
 * [luvitrocks](https://github.com/luvitrocks/) - Shiny Luvit modules
 
+## CMS
+
+* [Lico](https://github.com/james2doyle/Lico) - Pico rewrite in luvit
+
 ## Libraries
 
 * [NPM Tagged Libraries](https://www.npmjs.org/browse/keyword/luvit) - luvit modules on NPM
