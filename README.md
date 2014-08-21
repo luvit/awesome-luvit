@@ -39,3 +39,4 @@ first.
 * [QueryString](https://github.com/luvitrocks/luvit-querystring) - QueryString helpers
 * [Base64](https://github.com/luvitrocks/luvit-base64) - Base64
 * [Markdown](https://github.com/mneudert/luvit-markdown) - Markdown parser
+* [Redis](https://github.com/tadeuszwojcik/luvit-redis) - Redis Client
