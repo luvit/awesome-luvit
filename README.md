@@ -39,4 +39,6 @@ first.
 * [QueryString](https://github.com/luvitrocks/luvit-querystring) - QueryString helpers
 * [Base64](https://github.com/luvitrocks/luvit-base64) - Base64
 * [Markdown](https://github.com/mneudert/luvit-markdown) - Markdown parser
-* [Redis](https://github.com/tadeuszwojcik/luvit-redis) - Redis Client
+* [Luvit-redis](https://github.com/tadeuszwojcik/luvit-redis) - Redis Client
+* [Redis-luvit](https://github.com/creationix/redis-luvit) - A Redis protocol codec for Luvit by @creationix
+* [Mooncake](https://github.com/cyrilis/luvit-mooncake) - Express like web framework but powered by Luvit
