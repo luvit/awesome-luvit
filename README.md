@@ -40,3 +40,4 @@ first.
 * [Base64](https://github.com/luvitrocks/luvit-base64) - Base64
 * [Markdown](https://github.com/mneudert/luvit-markdown) - Markdown parser
 * [Redis](https://github.com/tadeuszwojcik/luvit-redis) - Redis Client
+* [N34T](https://github.com/mrtnpwn/N34T) - (tiny) logging package for Luvit.
